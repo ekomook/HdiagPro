@@ -1,1 +1,3 @@
-#Hdiag Pro
+
+The MicroPython project
+=======================
