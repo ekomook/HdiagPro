@@ -20,3 +20,4 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - Bluetooth Low Energy v5
 - DLC to communicate via the K-line
 - 4 wire BDM communicate via the back dor
+- Suport Android and PC windows platform
