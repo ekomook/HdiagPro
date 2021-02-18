@@ -10,6 +10,7 @@ tidak hanya melakukan Write/Read pada flash memory ecu, software Hdiag pro juga 
 
 ## Fitur Software
 - Tune manager
+- 2D and 3d Graph Visualisation
 - Auto Detect ECM part numbers
 - Write to Flash Memory ECM
 - Read from Flash Memory ECM
