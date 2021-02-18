@@ -16,7 +16,7 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - Diagnostic 
 
 ## Hardware Features
-- Suport Android and PC windows platform
+- Platform Suported Android,Windows
 - ARM cortex M4
 - Bluetooth Low Energy v5
 - DLC connector to communicate directly with Motor Cycle 
