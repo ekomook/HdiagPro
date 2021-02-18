@@ -8,5 +8,5 @@ tidak hanya melakukan Write/Read pada flash memory ecu, software Hdiag pro juga 
 
 
 
-## fitur software
------------------------------------------
+## Fitur Software
+- Tune manager
