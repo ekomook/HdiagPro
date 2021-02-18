@@ -11,9 +11,7 @@ tidak hanya melakukan Write/Read pada flash memory ecu, software Hdiag pro juga 
 ## Fitur Software
 - Tune manager
 - Auto Detect ECM part numbers
-
 - Write to Flash Memory ECM
 - Read from Flash Memory ECM
-- Show All Motorcycle parameters data
-- Show DTC
-- Clear DTC
+- Realtime Data
+- Diagnostic 
