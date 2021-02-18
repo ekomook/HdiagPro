@@ -22,6 +22,7 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - DLC connector to communicate directly with Motor Cycle 
 - 3 wire female to communicate directly with ECM
 - 4 wire BDM communicate via the back dor
+
 ## Technical Information
 
 
