@@ -8,7 +8,7 @@ proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunaka
 selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan melakukan Write/Read ke flash memory melalui pintu belakang.
 ## Software Features
 - Tune Manager
-- 2D and 3d Graph Visualisation
+- 2D and 3D Graph Visualisation
 - Auto Detect ECM part numbers
 - Write to Flash Memory ECM
 - Read from Flash Memory ECM
@@ -22,7 +22,6 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - DLC connector to communicate directly with Motor Cycle 
 - 3 wire female to communicate directly with ECM
 - 4 wire BDM communicate via the back dor
-
 ## Technical Information
 
 
