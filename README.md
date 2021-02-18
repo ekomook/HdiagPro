@@ -2,5 +2,4 @@
 Hdiag PRO
 =======================
 
-Hdiag Pro adalah alat yang digunakan untuk memenuhi kebutuhan tuning ECM sepeda motor injeksi Honda.
-Tuning disini
+Hdiag Pro adalah alat yang dibuat untuk memenuhi kebutuhan Tuning ECM standart sepeda motor injeksi Honda.
