@@ -18,5 +18,5 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 ## Hardware Features
 - ARM cortex M4
 - Bluetooth Low Energy v5
-- DLC 
-- 4 wire 
+- DLC to communicate via the K-line
+- 4 wire BDM communicate via the back dor
