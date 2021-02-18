@@ -16,8 +16,14 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - Diagnostic 
 
 ## Hardware Features
+- Suport Android and PC windows platform
 - ARM cortex M4
 - Bluetooth Low Energy v5
-- DLC to communicate via the K-line
+- DLC connector to communicate directly with Motor Cycle 
+- 3 wire female to communicate directly with ECM
 - 4 wire BDM communicate via the back dor
-- Suport Android and PC windows platform
+
+## Technical Information
+
+
+
