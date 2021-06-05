@@ -15,9 +15,10 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - Realtime Data
 - Diagnostic 
 <figure>
+- Dashboard
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_welcome.png" alt=".." title="Tampilan Dashboard"/>
 </figure>
-- Dashboard
+
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_TableView.png" />
 
 
