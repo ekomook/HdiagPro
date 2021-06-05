@@ -15,11 +15,32 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 - Realtime Data
 - Diagnostic 
 <figure>
-- Dashboard
+Tampilan Dashboard
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_welcome.png" alt=".." title="Tampilan Dashboard"/>
 </figure>
 
-<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_TableView.png" />
+<figure>
+Tampilan Table
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_TableView.png" alt=".." title="Tampilan Table" />
+</figure>
+
+<figure>
+Tampilan 3D
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_3D_dispaly.png" alt=".." title="Tampilan 3D" />
+</figure>
+
+<figure>
+Tampilan 2D
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_2D_dispaly.png" alt=".." title="Tampilan 2D" />
+</figure>
+<figure>
+Tampilan Pin Out
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_Flash_Display.png" alt=".." title="Pin Out" />
+</figure>
+
+
+
+
 
 
 ## Hardware Features
