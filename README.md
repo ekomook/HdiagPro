@@ -26,4 +26,6 @@ selain itu kami juga menambahkan beberapa kabel konektor untuk memungkinkan mela
 ## Technical Information
 
 
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_welcome.png" />
+
 
