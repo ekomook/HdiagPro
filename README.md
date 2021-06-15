@@ -38,6 +38,10 @@ Tampilan Pin Out
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_Flash_Display.png" alt=".." title="Pin Out" />
 </figure>
 
+<figure>
+Tampilan Pin Out
+<img src=https://github.com/sooko/HdiagPro/blob/master/HdiagPro/video/2021-06-16%2002-08-46.mkv" alt=".." title="Pin Out" />
+</figure>
 
 
 
