@@ -40,11 +40,11 @@ Tampilan Pin Out
 
 <figure>
 Tampilan Pin Out
-<img src=https://github.com/sooko/HdiagPro/blob/master/HdiagPro/video/2021-06-16%2002-08-46.mkv" alt=".." title="Pin Out" />
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/video/2021-06-16%2002-08-46.mkv" alt=".." title="Pin Out" />
 </figure>
 
-
-
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/sooko/HdiagPro/blob/master/HdiagPro/video/2021-06-16%2002-08-46.mkv)
 
 
 ## Hardware Features
