@@ -58,7 +58,6 @@ proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunaka
 | CBR 150 R | 38770-K45-NA1 | Asia |
 | CBR 150 R | 38770-K45-NL1 | Indonesia |
 | CBR 150 R | 38770-K45A-N01 | Indonesia |
-| CBR 250 R  HRC | 38770-KYJ-R11 | Asia |
 | CBR 250 R | 38770-K33-N03 | Indonesia |
 | CBR 250 R | 38770-K33-T53 | Asia |
 | CBR 250 R | 38770-KYJ-922 | Asia |
@@ -66,7 +65,6 @@ proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunaka
 | CBR 250 RR | 38770-K64-N01 | Asia |
 | CBR 250 RR | 38770-K64-N04 | Asia |
 | CBR 250 RR | 38770-K64-NA1 | Asia |
-| CBR 250 RR | 38770-K64-ND1 | Asia |
 | CRF 110 F | 38770-KYK-D12 | Asia |
 | CRF 150 L | 38770-K84-901 | Indonesia |
 | CRF 250 L | 38770-KZZ-902 | Asia |
@@ -162,7 +160,6 @@ proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunaka
 | VARIO 125 | 30400-K60K-B31 | Indonesia |
 | VARIO 125 | 30400-K60R-B61 | Indonesia |
 | VARIO 125 | 30400-K60R-B71 | Indonesia |
-| VARIO 125 | 30400-KZRA-601 | Indonesia |
 | VARIO 150 | 30400-K59A-A11 | Indonesia |
 | VARIO 150 | 30400-K59F-A01 | Indonesia |
 | VARIO 150 | 30400-K59J-A71 | Indonesia |
