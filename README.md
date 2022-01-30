@@ -38,8 +38,7 @@ Tampilan 2D
 Tampilan Pin Out
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_Flash_Display.png" alt=".." title="Pin Out" />
 </figure>
-
-
+ 
 
 ## Hardware Features
 - Platform Suported Android,Windows
