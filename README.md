@@ -6,6 +6,7 @@ Hdiag Pro adalah alat yang dibuat untuk memenuhi kebutuhan Tuning ECM standart s
 tidak hanya melakukan Write/Read pada flash memory ecu, software Hdiag pro juga dilengkapi dengan fitur <b>Tune Manager</b> yang sangat interkatif,sehingga memudahkan Tuner dalam melakukan remamping parameter ECM.
 proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunakan DLC connector untuk berkomunikasi K-line.
 
+
 ## Software Features
 - Auto detect vehicle model
 - Tune Manager
@@ -221,6 +222,12 @@ Tampilan Pin Out
 - DLC connector to communicate directly with Motor Cycle 
 - 3 wire female to communicate directly with ECM
 - 4 wire BDM communicate via the back dor
+
+<figure>
+Tampilan Table
+<img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/hardware.jpeg" alt=".." title="Tampilan Table" />
+</figure>
+
 
 ## Technical Information
 
