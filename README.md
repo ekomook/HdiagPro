@@ -2,10 +2,10 @@
 Hdiag PRO
 =======================
 
+<b>Tune Like a Pro</b>
 
-Hdiag Pro adalah alat yang dibuat untuk memenuhi kebutuhan Tuning ECM standart sepeda motor injeksi Honda.
-tidak hanya melakukan Write/Read pada flash memory ecu, software Hdiag pro juga dilengkapi dengan fitur <b>Tune Manager</b> yang sangat interkatif,sehingga memudahkan Tuner dalam melakukan remamping parameter ECM.
-proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunakan DLC connector untuk berkomunikasi K-line.
+Hdiag PRO is Remap Tool for Honda Keihin and Shindengen
+equipped with a very interactive Tune Manager, which makes it very easy for tuners to REMAP ECUs in just one software
 
 
 <figure>
@@ -196,22 +196,22 @@ proses Read/Write ke flash memory ECM juga sangat mudah, hanya dengan menggunaka
 | Zoomer X | 30400-K20J-T21 | Thailand |
 | Zoomer X | 38770-K20-T01 | Thailand |
 <figure>
-Tampilan Dashboard
+Welcome View
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_welcome.png" alt=".." title="Tampilan Dashboard"/>
 </figure>
 
 <figure>
-Tampilan Table
+Table Editor View
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_TableView.png" alt=".." title="Tampilan Table" />
 </figure>
 
 <figure>
-Tampilan 3D
+3D View
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_3D_dispaly.png" alt=".." title="Tampilan 3D" />
 </figure>
 
 <figure>
-Tampilan 2D
+2D View
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/HDiagPro_2D_dispaly.png" alt=".." title="Tampilan 2D" />
 </figure>
 <figure>
