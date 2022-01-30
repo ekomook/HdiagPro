@@ -224,7 +224,7 @@ Tampilan Pin Out
 - 4 wire BDM communicate via the back dor
 
 <figure>
-Tampilan Table
+The Hardware
 <img src="https://github.com/sooko/HdiagPro/blob/master/HdiagPro/screen_shoot/HDiagPro_Image/hardware.jpeg" alt=".." title="Tampilan Table" />
 </figure>
 
